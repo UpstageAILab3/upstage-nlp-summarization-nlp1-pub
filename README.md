@@ -7,7 +7,7 @@
 | ![현재호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최제우](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [현재호](https://github.com/dochyun123)             |            [최제우](https://github.com/UpstageAILab)             |
-|                            담당 역할                             |                            담당 역할                             |
+|                            모델링 및 데이터 분석 전반                             |                            모델링 및 데이터 분석 전반                             |
 
 ## 0. Overview
 ### Environment
