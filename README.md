@@ -2,10 +2,10 @@
 # Title (Please modify the title)
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![현재호] | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [현재호](https://github.com/dochyun123)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+
+
+|            [박패캠](https://github.com/UpstageAILab)             |            [현재호](https://github.com/dochyun123)             |            [최제우](https://github.com/UpstageAILab)             |
+|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
 ### Environment
