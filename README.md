@@ -111,4 +111,5 @@ Dialogue Summarization 경진대회는 주어진 데이터를 활용하여 일�
 
 - 최종 등수 : 10등
 - 최종 점수 : 39.5166
+  
 ![image](https://github.com/user-attachments/assets/247029f8-9f4b-4916-82b6-592022381855)
