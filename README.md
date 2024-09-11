@@ -11,21 +11,25 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
-
-### Requirements
-- _Write Requirements_
+- 컴퓨팅 환경 : RTX3090 서버를 VSC와 SSH를 통해 사용
+- 협업 환경 : Github, Wandb
+- 회의 환경 : Slack, Zoom
 
 ## 1. Competiton Info
 
 ### Overview
 
-- _Write competition information_
+-Dialogue Summarization 경진대회는 주어진 데이터를 활용하여 일상 대화에 대한 요약을 효과적으로 생성하는 모델을 개발하는 대회입니다. 
 
+일상생활에서 대화는 항상 이루어지고 있습니다. 회의나 토의는 물론이고, 사소한 일상 대화 중에도 서로 다양한 주제와 입장들을 주고 받습니다. 나누는 대화를 녹음해두더라도 대화 전체를 항상 다시 들을 수는 없기 때문에 요약이 필요하고, 이를 위한 통화 비서와 같은 서비스들도 등장하고 있습니다.
+
+그러나 하나의 대화에서도 관점, 주제별로 정리하면 수 많은 요약을 만들 수 있습니다. 대화를 하는 도중에 이를 요약하게 되면 대화에 집중할 수 없으며, 대화 이후에 기억에 의존해 요약하게 되면 오해나 누락이 추가되어 주관이 많이 개입되게 됩니다.
+
+이를 돕기 위해, 우리는 이번 대회에서 일상 대화를 바탕으로 요약문을 생성하는 모델을 구축합니다!
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- August 29, 2024 - Start Date
+- September 10, 2024 - Final submission deadline
 
 ## 2. Components
 
