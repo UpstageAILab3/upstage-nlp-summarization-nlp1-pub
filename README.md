@@ -4,8 +4,10 @@
 
 
 
-|            [박패캠](https://github.com/UpstageAILab)             |            [현재호](https://github.com/dochyun123)             |            [최제우](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+| ![현재호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최제우](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+|            [현재호](https://github.com/dochyun123)             |            [최제우](https://github.com/UpstageAILab)             |
+|                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
 ### Environment
